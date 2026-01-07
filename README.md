@@ -16,6 +16,13 @@ Pivot Tables: Summarized data of over 999 employees to find meaningful trends.
 
 Dashboarding: Created an interactive visual report using Charts and Slicers.
 
+## Technical Features & Data Presentation:
+Data Security & Integrity: Raw datasets and backend Pivot Table calculations are kept in Hidden Sheets to maintain a clean user interface and prevent accidental data modifications.
+
+Dashboard-Centric View: Designed the workbook to focus solely on the visual dashboard, ensuring that end-users interact only with the relevant insights.
+
+Efficient Data Management: Used optimized data structures to ensure the Excel file remains lightweight and responsive.
+
 ## Key Steps & Analysis:
 1. Workforce Diversity: Analyzed the gender ratio (55% Female, 45% Male) to ensure workplace inclusivity.
 
