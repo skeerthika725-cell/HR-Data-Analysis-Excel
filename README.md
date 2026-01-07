@@ -1,3 +1,4 @@
+<img width="996" height="557" alt="HR data analysis Screen Shot" src="https://github.com/user-attachments/assets/590ae184-49f0-433c-90d8-a60ade24fd98" />
 ## HR Data Analysis | Excel
 
 ## Project Objective:
